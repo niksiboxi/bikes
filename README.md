@@ -8,7 +8,7 @@
 | :--- | :--- |
 | Frame | DBS 700C alu |
 | Fork | Rigid 700C |
-| Crankset | 48/38/28T - 175 mm |
+| Crankset | 28/38/48 teeth - 175 mm |
 | Front gear | Shimano |
 | Rear gear | Shimano Tourney X |
 | Casette | Shimano 12-28T - 7 delt |
@@ -33,4 +33,15 @@
 | Shift Levers | Shimano Deore RapidFire SL | |
 | Front Derailleur | Shimano Deore | top-pull/clamp-on 31.8mm |
 | Rear Derailleur | Shimano Deore LX | |
-| Crankset | 
+| Crankset | Truvativ Firex LR | 22/32/44 teeth |
+| Bottom Bracket | Truvativ GXP | 113mm spindle |
+| BB Shell Width | | 68mm English |
+| Casette | 9-speed | 11 - 32 teeth |
+| Chain | KMC Z9000 | 1/2 x 2/32" |
+| Seatpost | Aluminium micro-adjust | 27.2mm diameter |
+| Saddle | WTB Laset V Comp | |
+| Handlebar Stem | Jamis Alloy Threadless | |
+| Headset | Threadless Aheadset STS-2K | 1 1/8" |
+| Rims | WTB SpeedDeisc 32-hole | 26" |
+| Front Tire | Hutchinson Scorpion | 26 x 2.00" |
+| Rear Tire | | |
