@@ -26,10 +26,10 @@
 
 | Part | Model | Size |
 | :--- | :--- | :--- |
-| Frame | TIG-Welded | |
-| Fork | Manitou Splicer Super | 100 - 130mm Adjustable |
+| Frame | 7005 Aluminium, TIG-Welded | 19" |
+| Fork | Fox Vanilla R | 100 - 130mm travel |
 | Rear Shock | Fox Float R | 90mm Travel |
-| Brakeset | Avid BB-5 disc front/Avid BB-5 disc rear brakes, Avid FR-5 levers | |
+| Brakeset | Avid BB-5 disc front/Avid BB-5 disc rear brakes, Avid FR-5 levers  (Hayes HFX-9XC hydraulic disc brakes.)| |
 | Shift Levers | Shimano Deore RapidFire SL | |
 | Front Derailleur | Shimano Deore | top-pull/clamp-on 31.8mm |
 | Rear Derailleur | Shimano Deore LX | |
@@ -43,5 +43,4 @@
 | Handlebar Stem | Jamis Alloy Threadless | |
 | Headset | Threadless Aheadset STS-2K | 1 1/8" |
 | Rims | WTB SpeedDeisc 32-hole | 26" |
-| Front Tire | Hutchinson Scorpion | 26 x 2.00" |
-| Rear Tire | | |
+| Tires | Hutchinson Spider | 26 x 2.3" |
